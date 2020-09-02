@@ -1,9 +1,9 @@
 I am file C, and student A is going to write their name here
 
 
----------->Ami Yamanouchi
+---------->
 
 And student B is going to write their name here
 
 
----------->Yumi Machino
+---------->
