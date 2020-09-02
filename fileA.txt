@@ -1,4 +1,4 @@
 I am file A, and student A is going to write their name here
 
 
-----------> MY name is Ami
+----------> MY name is Ami　Yamanouchi
